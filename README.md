@@ -1,36 +1,22 @@
 # 🌟 About Me
-Hi, I’m a FiveM server developer with experience in creating and managing roleplay servers.
+Hi, I’m a FiveM Server Developer with strong experience in building and managing roleplay servers.
 
-"I’ve been working in this field for many years, specializing in FiveM roleplay server development and management."
+I’ve been working in this field for several years, specializing in custom server development, optimization, and full server management. My focus is on creating stable, immersive, and high-performance roleplay experiences.
 
 ---
 
-# 🛠️ Tech Stack
-- **Languages:**  
-  ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white) 
-
-  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
-  
-  ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)  
-  
-  ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
-  
-  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)  
+# Tech Stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=lua,js,html,css,github,vscode" />
+</p>
 
 
-
-
-
-- **Frameworks / Tools:**  
-
-  ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-
-
-
-
-
-
-
+# Connect With Me
+<p align="center">
+  <a href="https://discord.gg/CN7P6Wattc"><img src="https://img.shields.io/badge/Discord-%235865F2.svg?&style=for-the-badge&logo=discord&logoColor=white"/></a>
+  <a href="https://.tebex.io/"><img src="https://img.shields.io/badge/Tebex%20Store-%23FF0000.svg?&style=for-the-badge&logo=shopify&logoColor=white"/></a>
+  <a href="mailto:@gmail.com"><img src="https://img.shields.io/badge/Email-%23EA4335.svg?&style=for-the-badge&logo=gmail&logoColor=white"/></a>
+</p>
 
 
 - **Database:**  
